@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"BAMBI1_1","characterIndex":0,"characterName":"bambis","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"bambis_icons","traits":[{"code":51,"dataId":13,"value":1},{"code":21,"dataId":1,"value":0.5},{"code":51,"dataId":2,"value":1},{"code":41,"dataId":2,"value":1},{"code":43,"dataId":18,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Bambi","nickname":"","note":"","profile":"Bambi."},
+{"id":2,"battlerName":"BAMBI1_2","characterIndex":1,"characterName":"bambis","classId":2,"equips":[2,0,2,3,0],"faceIndex":1,"faceName":"bambis_icons","traits":[{"code":21,"dataId":1,"value":1.25},{"code":21,"dataId":0,"value":0.95},{"code":51,"dataId":6,"value":1},{"code":41,"dataId":1,"value":1},{"code":43,"dataId":8,"value":1},{"code":44,"dataId":10,"value":1},{"code":21,"dataId":4,"value":1.2},{"code":43,"dataId":11,"value":1},{"code":51,"dataId":13,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Rambi","nickname":"","note":"","profile":"A weird \"magician.\" Does not like facebook."}
+]
