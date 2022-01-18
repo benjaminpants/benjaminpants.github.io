@@ -1,4 +1,3 @@
 # benjaminpants.github.io
 
-bambi civ
-please
+my site :)
